@@ -1,0 +1,9 @@
+{
+  "name": "express-parameters",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "http": "0.0.0",
+    "request-promise": "^3.0.0"
+  }
+}
